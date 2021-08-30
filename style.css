@@ -1,0 +1,189 @@
+body{
+    background-color: rgb(148, 165, 165);
+}
+.image{
+    background-repeat: no-repeat;
+    background-size: 1300px 580px;
+    
+}
+.navbar{
+    position: fixed;
+}
+
+.navbar, .head
+{
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding: 15px 57px;
+    margin: -8px -8px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+.navbar #active{
+    color: blueviolet;
+}
+
+.navbar a:hover{
+    color: crimson;
+}
+
+button{
+    background-color: burlywood;
+    color: black;
+    width: 19%;
+    border:3px solid brown;
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+}
+
+form{
+    width: 40%;
+    text-align: center;
+    border-style: solid;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 0px 370px;
+}
+
+form input{
+    width: 40%;
+    text-align: center;
+    border-style: solid;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 11px;
+    margin: 10px;
+}
+
+form input .email{
+    padding: 5px;
+    margin: 10px;
+}    
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+.h3 {
+    width: 50%;
+    padding: 5px 5px;
+    margin: 0px 300px;
+    text-align: center;
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    font-size: 40px;
+    color: black;
+}
+
+.java {
+    height: 250px;
+    width: 300px;
+    margin: 20px 93px;
+}
+
+.js {
+    height: 250px;
+    width: 350px;
+    margin: 20px 93px;
+}
+
+.python {
+    height: 250px;
+    width: 300px;
+    margin: 20px 228px;
+}
+
+.javaview {
+    width: auto;
+    padding: 4px 12px;
+    margin: 0px 90px;
+}
+
+.javabuy {
+    width: auto;
+    padding: 4px 12px;
+    margin: 0px 72px;
+}
+
+.pythonview {
+    width: auto;
+    padding: 4px 12px;
+    margin: 0px 270px;
+}
+
+.pythonbuy {
+    width: auto;
+    padding: 4px 12px;
+    margin: 0px -86px;
+}
+.details{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 20px 100px;
+}
+#h3{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    text-align: center;
+    width: 40%;
+    padding: 8px 3px;
+    margin: 25px 350px;
+    border-radius: 10px;
+}
+#logout{
+    background-color: burlywood;
+    border: 2px solid black;
+    padding: 10px 8px;
+    margin: -13px 536px;
+    width: 8%;
+}
+#submit{
+    padding: 5px;
+}
+#saveid{
+    margin: 0px 0px 20px 800px;
+}
+.homebutton{
+    width: 15%;
+    padding: 5px 23px;
+    margin: 22px 112px;
+}
+.details input {
+    text-align: center;
+    border-radius: 5px;
+}
+
+#textarea {
+    margin: 10px 0px;
+}
+.details1 {
+    padding: 5px 65px;
+    margin: 22px 70px;
+}
+#back{
+    width: 12%;
+    padding: 3px 7px;
+    margin: 20px 540px;
+}
+.shop{
+    border-radius: 25px;
+    padding: 8px 0px;
+    margin: 15px 500px;
+    font-size: 15px;
+    font-weight: bolder;
+}
